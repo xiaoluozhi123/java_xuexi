@@ -1,2 +1,2 @@
-# java_xuexi
-学习Java
+# 学习java
+**今天开始学习java**
